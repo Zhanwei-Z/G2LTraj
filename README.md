@@ -11,7 +11,7 @@
 <br>All models were trained and tested on Ubuntu 18.04 with Python 3.7 and PyTorch 1.12.1 with CUDA 11.1.
 
 **Dataset**
-<br>Preprocessed [ETH](https://data.vision.ee.ethz.ch/cvl/aem/ewap_dataset_full.tgz) and [UCY](https://graphics.cs.ucy.ac.cy/research/downloads/crowd-data) datasets are included in this repository, under `./datasets/`. 
+<br>Preprocessed [ETH](https://data.vision.ee.ethz.ch/cvl/aem/ewap_dataset_full.tgz) and [UCY](https://graphics.cs.ucy.ac.cy/research/downloads/crowd-data) datasets are included in [this repository](https://github.com/InhwanBae/EigenTrajectory), under `./datasets/`. 
 The train/validation/test splits are the same as those fond in [Social-GAN](https://github.com/agrimgupta92/sgan).
 
 You can also download the dataset by running the following script.
