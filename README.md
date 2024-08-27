@@ -75,15 +75,17 @@ python trainval.py --test --cfg <config_file_path> --tag <experiment_tag> --gpu_
 ```
 
 ## Citation
-If you find our work useful in your research, please cite our paper [SkexGen](https://samxuxiang.github.io/skexgen):
+If you find our work useful in your research, please cite our paper [G2LTraj](https://www.ijcai.org/proceedings/2024/285):
 ```
-@inproceedings{xu2022skexgen, 
-title     = {SkexGen: Autoregressive Generation of CAD Construction Sequences with Disentangled Codebooks},
-author    = {Xu, Xiang and Willis, Karl DD and Lambourne, Joseph G and Cheng, Chin-Yi and Jayaraman, Pradeep Kumar and Furukawa, Yasutaka},
-booktitle = {International Conference on Machine Learning},
-pages={24698--24724},
-year={2022},
-organization={PMLR}
+@inproceedings{ijcai2024p285,
+  title     = {G2LTraj: A Global-to-Local Generation Approach for Trajectory Prediction},
+  author    = {Zhang, Zhanwei and Hua, Zishuo and Chen, Minghao and Lu, Wei and Lin, Binbin and Cai, Deng and Wang, Wenxiao},
+  booktitle = {Proceedings of the Thirty-Third International Joint Conference on
+               Artificial Intelligence, {IJCAI-24}},
+  publisher = {International Joint Conferences on Artificial Intelligence Organization},
+  editor    = {Kate Larson},
+  pages     = {2579--2587},
+  year      = {2024}
 }
 ```
 
