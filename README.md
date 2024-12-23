@@ -77,15 +77,11 @@ python trainval.py --test --cfg <config_file_path> --tag <experiment_tag> --gpu_
 ## Citation
 If you find our work useful in your research, please cite our paper [G2LTraj](https://www.ijcai.org/proceedings/2024/285):
 ```
-@inproceedings{ijcai2024p285,
-  title     = {G2LTraj: A Global-to-Local Generation Approach for Trajectory Prediction},
-  author    = {Zhang, Zhanwei and Hua, Zishuo and Chen, Minghao and Lu, Wei and Lin, Binbin and Cai, Deng and Wang, Wenxiao},
-  booktitle = {Proceedings of the Thirty-Third International Joint Conference on
-               Artificial Intelligence, {IJCAI-24}},
-  publisher = {International Joint Conferences on Artificial Intelligence Organization},
-  editor    = {Kate Larson},
-  pages     = {2579--2587},
-  year      = {2024}
+@article{zhang2024g2ltraj,
+  title={G2LTraj: A Global-to-Local Generation Approach for Trajectory Prediction},
+  author={Zhang, Zhanwei and Hua, Zishuo and Chen, Minghao and Lu, Wei and Lin, Binbin and Cai, Deng and Wang, Wenxiao},
+  journal={arXiv preprint arXiv:2404.19330},
+  year={2024}
 }
 ```
 
